@@ -4,7 +4,7 @@ A sample Unity Project made for the **Introduction to Game Development with Unit
 
 In this project we talked about Player movement and Jumping, Collision (Hard and Trigger), Tags, Building, and so forth and so on.
 
-The project has been made with Unity v2021.3.8f1 and does not need any additional package. It is a sample basic project to understand game development process using the engine.
+The project has been made with Unity v2021.3.8f1 and does not need any additional package. It is a sample basic project to understand game development process using the engine. You can find the build of the project on [itch.io](https://sixfried.itch.io/comicade)
 
 You can find my two sessions here:
 
@@ -38,7 +38,7 @@ Un projet basic réalisé pour l'**Introduction au développement de jeux vidéo
 
 Dans ce projet, nous avons abordé le déplacement et le saut du joueur, la collision (dure et soft), les tags, l'exportation vers les plateformes, etc.
 
-Le projet a été réalisé à partir de la version 2021.3.8f1 du moteur Unity et ne necessite aucun package supplémentaire. C'est un exemple basique pour comprendre le processus de développement d'un jeu avec le moteur.
+Le projet a été réalisé à partir de la version 2021.3.8f1 du moteur Unity et ne necessite aucun package supplémentaire. C'est un exemple basique pour comprendre le processus de développement d'un jeu avec le moteur. Retrouvez un exécutable du projet sur [itch.io](https://sixfried.itch.io/comicade)
 
 Retrouvez les deux seances de la formation ici:
 
