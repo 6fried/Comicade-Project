@@ -48,8 +48,8 @@ Part1: [https://youtu.be/56VfuFjoUN0](https://youtu.be/56VfuFjoUN0)
 Part2: [https://youtu.be/ENoTQkeXD2g](https://youtu.be/ENoTQkeXD2g)
 
 
-Découvrez les talents créatifs africains !
-
+Découvrez les talents créatifs africains !  
+<br>
 
 Obtenez vos billets pour le Gamathon ici : [https://africacomicade.org/gamathon/](https://africacomicade.org/gamathon/)
   
