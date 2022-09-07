@@ -13,25 +13,23 @@ Part1: [https://youtu.be/56VfuFjoUN0](https://youtu.be/56VfuFjoUN0)
 Part2: [https://youtu.be/ENoTQkeXD2g](https://youtu.be/ENoTQkeXD2g)
 
 
-Discover African Creatives!
-<br>
-<br>
+Discover African Creatives! <br><br>
 
-Get your Gamathon Tickets here: [https://africacomicade.org/gamathon/](https://africacomicade.org/gamathon/)
+Get your Gamathon Tickets here: [https://africacomicade.org/gamathon/](https://africacomicade.org/gamathon/)<br>
 
-Subscribe to Africacomicade on [YouTube](http://bit.ly/AfricacomicadeOnYoutube)
+Subscribe to Africacomicade on [YouTube](http://bit.ly/AfricacomicadeOnYoutube)<br>
 
-Visit Africacomicade  at [https://africacomicade.org/](https://africacomicade.org/)
+Visit Africacomicade  at [https://africacomicade.org/](https://africacomicade.org/)<br>
   
-Like Africacomicade on [Facebook](https://facebook.com/africacomicade)
+Like Africacomicade on [Facebook](https://facebook.com/africacomicade)<br>
   
-Join the Africacomicade [Discord](https://discord.gg/mNatgSMz)
+Join the Africacomicade [Discord](https://discord.gg/mNatgSMz)<br>
   
-Follow Africacomicade on [Twitter](https://twitter.com/africacomicade)
+Follow Africacomicade on [Twitter](https://twitter.com/africacomicade)<br>
   
-Follow Africacomicade on [Instagram](https://www.instagram.com/africacomicade/)
+Follow Africacomicade on [Instagram](https://www.instagram.com/africacomicade/)<br>
   
-Follow Africacomicade on [LinkedIn](https://www.linkedin.com/company/africacomicade/)
+Follow Africacomicade on [LinkedIn](https://www.linkedin.com/company/africacomicade/)<br>
 
 
 ## Fr
@@ -47,23 +45,22 @@ Retrouvez les deux seances de la formation ici:
 Part1: [https://youtu.be/56VfuFjoUN0](https://youtu.be/56VfuFjoUN0)
 
 Part2: [https://youtu.be/ENoTQkeXD2g](https://youtu.be/ENoTQkeXD2g)
+<br><br>
 
+Découvrez les talents créatifs africains ! <br><br>
 
-Découvrez les talents créatifs africains !  
-<br>
+Obtenez vos billets pour le Gamathon ici : [https://africacomicade.org/gamathon/](https://africacomicade.org/gamathon/)<br>
 
-Obtenez vos billets pour le Gamathon ici : [https://africacomicade.org/gamathon/](https://africacomicade.org/gamathon/)
+Abonnez-vous à Africacomicade sur [YouTube](http://bit.ly/AfricacomicadeOnYoutube)<br>
   
-Abonnez-vous à Africacomicade sur [YouTube](http://bit.ly/AfricacomicadeOnYoutube)
+Visitez Africacomicade sur [https://africacomicade.org/](https://africacomicade.org/)<br>
   
-Visitez Africacomicade sur [https://africacomicade.org/](https://africacomicade.org/)
+Aimez la page Africacomicade sur [Facebook](https://facebook.com/africacomicade)<br>
   
-Aimez la page Africacomicade sur [Facebook](https://facebook.com/africacomicade)
+Rejoignez l'Africacomicade sur [Discord](https://discord.gg/mNatgSMz)<br>
   
-Rejoignez l'Africacomicade sur [Discord](https://discord.gg/mNatgSMz)
+Suivez Africacomicade sur [Twitter](https://twitter.com/africacomicade)<br>
   
-Suivez Africacomicade sur [Twitter](https://twitter.com/africacomicade)
+Suivez Africacomicade sur [Instagram](https://www.instagram.com/africacomicade/)<br>
   
-Suivez Africacomicade sur [Instagram](https://www.instagram.com/africacomicade/)
-  
-Suivez Africacomicade sur [LinkedIn](https://www.linkedin.com/company/africacomicade/)
+Suivez Africacomicade sur [LinkedIn](https://www.linkedin.com/company/africacomicade/)<br>
