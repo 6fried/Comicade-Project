@@ -11,7 +11,7 @@ You can find my two sessions here:
 Part1: [https://youtu.be/56VfuFjoUN0](https://youtu.be/56VfuFjoUN0)
 
 Part2: [https://youtu.be/ENoTQkeXD2g](https://youtu.be/ENoTQkeXD2g)
-
+<br><br>
 
 Discover African Creatives! <br><br>
 
